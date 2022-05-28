@@ -1,5 +1,4 @@
-// 20220527101933
-// https://raw.githubusercontent.com/microverseinc/linters-config/master/html-css/.stylelintrc.json
+
 
 {
     "extends": [
